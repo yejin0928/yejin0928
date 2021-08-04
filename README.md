@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yejin's%20github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Check%20my%20projects%20here!&descAlignY=30&descAlign=82)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yejin's%20github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Check%20my%20projects%20here!&descAlignY=56&descAlign=62)
 
 ### Hi there 👋
 

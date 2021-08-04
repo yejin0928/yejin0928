@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yejin's%20github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Check%20my%20projects%20here!&descAlignY=56&descAlign=62)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyejin0928&count_bg=%23EFD9E0&title_bg=%23ADAFDA&icon=&icon_color=%23ADAFDA&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### Hi there 👋
 
 <!--

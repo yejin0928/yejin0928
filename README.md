@@ -1,4 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yejin's%20github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Check%20my%20projects%20here!&descAlignY=56&descAlign=62)
+
+
   <a href="https://sweetpassion99.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
  <a href="mailto:yejinkwon0928@gmail.com" target="_blank"><img src="https://img.shields.io/badge/yejinkwon0928@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
@@ -35,6 +37,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyejin0928&count_bg=%23EFD9E0&title_bg=%23ADAFDA&icon=&icon_color=%23ADAFDA&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yejin0928&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yejin0928)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yejin0928&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+

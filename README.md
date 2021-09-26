@@ -5,9 +5,7 @@
  <a href="mailto:yejinkwon0928@gmail.com" target="_blank"><img src="https://img.shields.io/badge/yejinkwon0928@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ### 👋 Hi there 
-<p>
-  I'm currently interested in developing a mobile app.<br/>
-  
+<p> I'm an Android & iOS Developer with passion. <br/>
 </p>
 
 ### 🧐 Skills

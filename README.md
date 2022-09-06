@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yejin's%20github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Check%20my%20projects%20here!&descAlignY=56&descAlign=62)
 
 
-  <a href="https://sweetpassion99.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
  <a href="mailto:yejinkwon0928@gmail.com" target="_blank"><img src="https://img.shields.io/badge/yejinkwon0928@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ### 👋 Hi there 
